@@ -1,0 +1,39 @@
+category,enemy_or_cause,location,death_count,cause_of_death,comments
+Enemy,Hellkite Drake,Undead Burg Bridge,1,Fire,Lured down but got hit with fire trying to run under
+Enemy,Undead Attack Dogs,Lower Undead Burg,2,Dog Attack,Damn dogs
+Enemy,Ghosts,New Londo Ruins,2,Trapped,Suicide run for firekeeper soul
+Enemy,Black Knight,Asylum,19,Sword,Missed parries
+Enemy,Torch Hollows,Asylum,1,Fire Attack,Fire spaz gank
+Enemy,Serpent Soldier,Sens Fortress,3,Attack,
+Enemy,Berenike Knight,"Sens Fortress,Painted World",2,Attack,
+Trap,Swinging Axe Trap,Sens Fortress,1,Trap,
+Enemy,Anor Londo Archers,Anor Londo,1,Arrow,The usual
+Enemy,Silver Knight,Anor Londo,1,Sword,
+Trap,Mimic,Anor Londo,1,Eaten Alive,Tricked
+Enemy,Giant Blacksmith,Anor Londo,1,Trampled,Didnt know he fought back - karma
+Enemy,Great Feline,Darkroot Garden,1,Rolled,Reason I dont usually take that route
+Environment,Gravity,Miscellaneous,15,Fall,Skeleton pushed me off
+Enemy,Bone Tower,Tomb of Giants,1,Attack,
+Enemy,Skeleton Beast,Tomb of Giants,7,Attack,
+Enemy,Pinwheel Clone,Tomb of Giants,1,Projectile,Shot in the back on way to Nito
+Enemy,Hydra,Darkroot Basin,1,Spit Attack,
+Enemy,Crystal Soldier,Seaths Archives,1,Attack,
+Enemy,Capra Demon,Lost Izalith,1,Attack,
+Enemy,Burrowing Rockworm,Lost Izalith,2,Eaten Alive,
+Enemy,Bounding Demon of Izalith,Lost Izalith,1,Attack,
+Enemy,Stone Demon,Lost Izalith,1,Attack,
+Enemy,Chaos Witch,Lost Izalith,2,Attack,
+Enemy,Titanite Demon,Lost Izalith,10,Attack,BoC Boss run
+Environment,Fire,Lost Izalith,2,Fire,
+Enemy,Dark Wraith,New Londo Ruins,3,Attack,
+Enemy,Oolacile Townfolk Wizard,Oolacile,6,Attack,
+Enemy,Oolacile Townfolk,Oolacile,2,Attack,
+Enemy,Skeletons,Catacombs,4,Attack,Seance ring run
+Enemy,Hollow,"Depths,Painted World",4,Attack,
+Enemy,Rats,Depths,1,Attack,
+Enemy,Engorged Hollow,Painted World,1,Attack,
+Enemy,Undead Dragon,Painted World,3,Attack,
+Enemy,Wheel Skeleton,Painted World,8,Attack,
+Enemy,Humanity,Oolacile Depths,1,Attack,
+Enemy,Taurus Demon,Lost Izalith,1,Attack,Giant Fire Ember Run
+Enemy,Vagrant,Kiln of the First Flame,1,Missile Launchers,Got me on the way to Gwyn
